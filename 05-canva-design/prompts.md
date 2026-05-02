@@ -1,8 +1,3 @@
----
-layout: default
-title: 05 — Canva for Visual Design: Prompts
----
-
 # 05 — Canva for Visual Design: Prompts
 
 Use these in **ChatGPT, Copilot Chat, or any AI chat tool** to plan and improve your Canva work.
