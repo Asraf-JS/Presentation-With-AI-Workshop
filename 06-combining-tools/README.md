@@ -1,8 +1,3 @@
----
-layout: default
-title: 06 — Combining PowerPoint and Canva Seamlessly
----
-
 # 06 — Combining PowerPoint and Canva Seamlessly
 
 The biggest risk when using two tools together is visual inconsistency. A deck where some slides look like one thing and others look like something else signals that no one was in charge of the whole.
