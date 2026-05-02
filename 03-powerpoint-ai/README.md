@@ -1,7 +1,3 @@
----
-layout: default
-title: 03 — Improving Slide Content with PowerPoint AI Features
----
 
 # 03 — Improving Slide Content with PowerPoint AI Features
 
