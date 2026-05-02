@@ -1,8 +1,3 @@
----
-layout: default
-title: 05 — Enhancing Visual Design with Canva
----
-
 # 05 — Enhancing Visual Design with Canva
 
 Canva is not a replacement for PowerPoint. It is a tool that handles certain visual tasks better than PowerPoint does — and knowing which tool to use for which job saves a lot of frustration.
