@@ -1,8 +1,3 @@
----
-layout: default
-title: 07 — AI-Assisted Slide Review and Refinement
----
-
 # 07 — AI-Assisted Slide Review and Refinement
 
 Before you present, you need to review the full deck as a critic, not as the person who built it. AI can help with this — but only if you give it the right brief.
