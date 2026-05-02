@@ -1,8 +1,3 @@
----
-layout: default
-title: 08 — Mini Project: Prompts
----
-
 # 08 — Mini Project: Prompts
 
 Use these throughout the project to accelerate each stage. Work through them in sequence — they follow the same order as the project steps.
