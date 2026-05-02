@@ -1,8 +1,3 @@
----
-layout: default
-title: 08 — Mini Project: End-to-End Slide Improvement
----
-
 # 08 — Mini Project: End-to-End Slide Improvement
 
 This is the practical capstone of the workshop. You take a real or provided deck and apply everything from Modules 01 through 07 to produce a finished, presentation-ready output.
