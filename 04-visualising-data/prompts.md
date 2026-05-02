@@ -1,8 +1,3 @@
----
-layout: default
-title: 04 — Visualising Data: Prompts
----
-
 # 04 — Visualising Data: Prompts
 
 Use these in **ChatGPT, Copilot Chat, or any AI chat tool** alongside your data slides.
