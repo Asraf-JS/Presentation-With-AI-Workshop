@@ -1,7 +1,3 @@
----
-layout: default
-title: 01 — Rethinking Presentations in the Age of AI
----
 
 # 01 — Rethinking Presentations in the Age of AI
 
