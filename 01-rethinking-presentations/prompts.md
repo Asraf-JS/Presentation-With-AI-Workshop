@@ -1,8 +1,3 @@
----
-layout: default
-title: 01 — Rethinking Presentations: Prompts
----
-
 # 01 — Rethinking Presentations: Prompts
 
 Use these in **ChatGPT, Copilot Chat, or any AI chat tool** to explore the concepts from this module.
