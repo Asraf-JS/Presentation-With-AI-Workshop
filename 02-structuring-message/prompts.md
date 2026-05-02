@@ -1,8 +1,3 @@
----
-layout: default
-title: 02 — Structuring Your Message: Prompts
----
-
 # 02 — Structuring Your Message: Prompts
 
 Use these in **ChatGPT, Copilot Chat, or any AI chat tool** before opening PowerPoint.
