@@ -1,8 +1,3 @@
----
-layout: default
-title: 07 — AI-Assisted Review: Prompts
----
-
 # 07 — AI-Assisted Review: Prompts
 
 Use these to critique your deck before presenting. The more specific you are, the more useful the feedback.
