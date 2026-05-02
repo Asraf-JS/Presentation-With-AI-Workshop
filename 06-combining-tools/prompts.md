@@ -1,8 +1,3 @@
----
-layout: default
-title: 06 — Combining PowerPoint & Canva: Prompts
----
-
 # 06 — Combining PowerPoint & Canva: Prompts
 
 Use these to plan your visual system and catch consistency problems before they compound.
