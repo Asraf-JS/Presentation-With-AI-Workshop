@@ -4,6 +4,7 @@
 Before we start improving slides, it helps to name the real problems. Most corporate decks fail for the same handful of reasons — and AI can help with some of them, but not all.
 
 > **Prompts to Try:** Open the [copy-paste prompt exercises](./prompts) for this module.
+> [Download the Before Deck](./NC_Q3_2025_Before.pptx)
 
 ---
 
