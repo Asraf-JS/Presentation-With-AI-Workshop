@@ -1,8 +1,3 @@
----
-layout: default
-title: 03 — PowerPoint AI Features: Prompts
----
-
 # 03 — PowerPoint AI Features: Prompts
 
 Use these in **ChatGPT, Copilot Chat, or any AI chat tool** alongside PowerPoint.
