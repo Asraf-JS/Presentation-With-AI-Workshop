@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="icon" type="image/png" href="/Presentation-With-AI-Workshop/logo.png">
+<link rel="icon" type="image/png" href="/AI-Presentation-Workshop/logo.png">
 <title>{{ page.title }} | AI Presentation Design Workshop</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0;}
@@ -357,17 +357,25 @@ body{
   color:var(--navy);
 }
 
-.main-inner pre{
-  background:var(--code-bg);
+.pre-wrap{
+  position:relative;
+  margin:12px 0 22px;
+  border-radius:12px;
   border:1px solid var(--border);
+  background:var(--code-bg);
+}
+
+.main-inner pre{
+  background:transparent;
+  border:none;
   border-radius:12px;
   padding:42px 20px 18px;
   font-family:'Cascadia Code','Fira Code','Courier New',monospace;
   font-size:12.5px;
   line-height:1.7;
   overflow-x:auto;
-  margin:12px 0 22px;
-  position:relative;
+  margin:0;
+  position:static;
   color:var(--text-dark);
 }
 
@@ -388,6 +396,7 @@ body{
   border-radius:6px;
   cursor:pointer;
   opacity:.75;
+  z-index:1;
   transition:opacity .15s, background .15s, color .15s, border-color .15s;
 }
 
@@ -513,8 +522,8 @@ body{
 
 <div class="sidebar">
   <div class="sidebar-header">
-    <a class="sidebar-logo" href="/Presentation-With-AI-Workshop/">
-      <img src="/Presentation-With-AI-Workshop/logo.png" alt="Asraf">
+    <a class="sidebar-logo" href="/AI-Presentation-Workshop/">
+      <img src="/AI-Presentation-Workshop/logo.png" alt="Asraf">
       <span class="sidebar-logo-name">Asraf JS</span>
     </a>
     <div class="sidebar-subtitle">AI Presentation Workshop &nbsp;·&nbsp; 2025</div>
@@ -522,27 +531,27 @@ body{
 
   <div class="sidebar-nav">
     <div class="nav-section-label">Modules</div>
-    <a class="nav-item{% if page.url contains '01-rethinking' %} active{% endif %}" href="/Presentation-With-AI-Workshop/01-rethinking-presentations/"><span class="nav-num">01</span><span class="nav-name">Rethinking Presentations</span></a>
-    <a class="nav-item{% if page.url contains '02-structuring' %} active{% endif %}" href="/Presentation-With-AI-Workshop/02-structuring-message/"><span class="nav-num">02</span><span class="nav-name">Structuring Your Message</span></a>
-    <a class="nav-item{% if page.url contains '03-powerpoint' %} active{% endif %}" href="/Presentation-With-AI-Workshop/03-powerpoint-ai/"><span class="nav-num">03</span><span class="nav-name">PowerPoint AI Features</span></a>
-    <a class="nav-item{% if page.url contains '04-visualising' %} active{% endif %}" href="/Presentation-With-AI-Workshop/04-visualising-data/"><span class="nav-num">04</span><span class="nav-name">Visualising Data</span></a>
-    <a class="nav-item{% if page.url contains '05-canva' %} active{% endif %}" href="/Presentation-With-AI-Workshop/05-canva-design/"><span class="nav-num">05</span><span class="nav-name">Canva for Visual Design</span></a>
-    <a class="nav-item{% if page.url contains '06-combining' %} active{% endif %}" href="/Presentation-With-AI-Workshop/06-combining-tools/"><span class="nav-num">06</span><span class="nav-name">Combining PowerPoint & Canva</span></a>
-    <a class="nav-item{% if page.url contains '07-ai-review' %} active{% endif %}" href="/Presentation-With-AI-Workshop/07-ai-review/"><span class="nav-num">07</span><span class="nav-name">AI-Assisted Review</span></a>
-    <a class="nav-item{% if page.url contains '08-mini-project' %} active{% endif %}" href="/Presentation-With-AI-Workshop/08-mini-project/"><span class="nav-num">08</span><span class="nav-name">Mini Project</span></a>
+    <a class="nav-item{% if page.url contains '01-rethinking' %} active{% endif %}" href="/AI-Presentation-Workshop/01-rethinking-presentations/"><span class="nav-num">01</span><span class="nav-name">Rethinking Presentations</span></a>
+    <a class="nav-item{% if page.url contains '02-structuring' %} active{% endif %}" href="/AI-Presentation-Workshop/02-structuring-message/"><span class="nav-num">02</span><span class="nav-name">Structuring Your Message</span></a>
+    <a class="nav-item{% if page.url contains '03-powerpoint' %} active{% endif %}" href="/AI-Presentation-Workshop/03-powerpoint-ai/"><span class="nav-num">03</span><span class="nav-name">PowerPoint AI Features</span></a>
+    <a class="nav-item{% if page.url contains '04-visualising' %} active{% endif %}" href="/AI-Presentation-Workshop/04-visualising-data/"><span class="nav-num">04</span><span class="nav-name">Visualising Data</span></a>
+    <a class="nav-item{% if page.url contains '05-canva' %} active{% endif %}" href="/AI-Presentation-Workshop/05-canva-design/"><span class="nav-num">05</span><span class="nav-name">Canva for Visual Design</span></a>
+    <a class="nav-item{% if page.url contains '06-combining' %} active{% endif %}" href="/AI-Presentation-Workshop/06-combining-tools/"><span class="nav-num">06</span><span class="nav-name">Combining PowerPoint & Canva</span></a>
+    <a class="nav-item{% if page.url contains '07-ai-review' %} active{% endif %}" href="/AI-Presentation-Workshop/07-ai-review/"><span class="nav-num">07</span><span class="nav-name">AI-Assisted Review</span></a>
+    <a class="nav-item{% if page.url contains '08-mini-project' %} active{% endif %}" href="/AI-Presentation-Workshop/08-mini-project/"><span class="nav-num">08</span><span class="nav-name">Mini Project</span></a>
   </div>
 
   <div class="sidebar-footer">
-    <a href="/Presentation-With-AI-Workshop/">Home</a>
+    <a href="/AI-Presentation-Workshop/">Home</a>
     <a href="https://github.com/Asraf-JS/AI-Presentation-Workshop" target="_blank">GitHub Repo</a>
   </div>
 </div>
 
 <div class="main-wrap">
   <div class="main-inner">
-    {% unless page.url == "/" or page.url == "/Presentation-With-AI-Workshop/" %}
+    {% unless page.url == "/" or page.url == "/AI-Presentation-Workshop/" %}
     <div class="breadcrumb">
-      <a href="/Presentation-With-AI-Workshop/">Workshop Home</a>
+      <a href="/AI-Presentation-Workshop/">Workshop Home</a>
       <span class="breadcrumb-sep">/</span>
       <span>{{ page.title }}</span>
     </div>
@@ -558,7 +567,12 @@ document.addEventListener("DOMContentLoaded", function () {
   codeBlocks.forEach(function (pre) {
     const code = pre.querySelector("code");
     if (!code) return;
-    if (pre.querySelector(".copy-code-btn")) return;
+    if (pre.parentNode.classList.contains("pre-wrap")) return;
+
+    const wrapper = document.createElement("div");
+    wrapper.className = "pre-wrap";
+    pre.parentNode.insertBefore(wrapper, pre);
+    wrapper.appendChild(pre);
 
     const button = document.createElement("button");
     button.className = "copy-code-btn";
@@ -581,7 +595,7 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
 
-    pre.appendChild(button);
+    wrapper.appendChild(button);
   });
 });
 </script>
