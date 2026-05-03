@@ -1,8 +1,13 @@
+---
+layout: default
+title: 02 — Structuring a Clear Message Before Design
+---
+
 # 02 — Structuring a Clear Message Before Design
 
 The most common mistake in presentation work is opening PowerPoint before you know what you are trying to say. Design choices made without a clear message just make the confusion look nicer.
 
-> **Prompts to Try:** Open the [copy-paste prompt exercises](./prompts.md) for this module.
+> **Prompts to Try:** Open the [copy-paste prompt exercises](./prompts) for this module.
 
 ---
 
@@ -11,7 +16,7 @@ The most common mistake in presentation work is opening PowerPoint before you kn
 Before touching any slide, answer these three questions clearly. If you cannot answer them in one sentence each, you are not ready to design yet.
 
 **Who is the audience?**
-Not just their job titles — their priorities, their level of familiarity with the topic, what they care about, and what will make them say yes or no to whatever you need from them.
+Not just their job titles, their priorities, their level of familiarity with the topic, what they care about, and what will make them say yes or no to whatever you need from them.
 
 **What is the purpose?**
 Are you informing, persuading, requesting a decision, or reporting progress? The same content structured for different purposes produces very different decks.
@@ -27,7 +32,7 @@ If the audience remembers one thing after leaving the room, what should it be? W
 | What is the purpose? | Show Q3 results | Get approval to move two headcount from Project A to Project B |
 | What is the key message? | We had a good quarter | We exceeded revenue targets and we need one decision to maintain that trajectory in Q4 |
 
-The strong answers change everything — the slide order, what gets emphasised, what gets cut, and how the deck ends.
+The strong answers change everything, the slide order, what gets emphasised, what gets cut, and how the deck ends.
 
 ---
 
@@ -41,7 +46,7 @@ A storyline approach works differently. You plan the narrative arc first and the
 
 | Beat | What happens | Example slide headline |
 |------|-------------|----------------------|
-| **Situation** | What is the context the audience needs? | "Q3 closed above target — here's the full picture" |
+| **Situation** | What is the context the audience needs? | "Q3 closed above target, here is the full picture" |
 | **Complication** | What is the problem, tension, or decision? | "Two projects are at risk of missing Q4 milestones" |
 | **Key message** | What is the single thing you need them to know or do? | "One resource reallocation will protect both projects" |
 | **Evidence** | What data or reasoning supports this? | Data slides, charts, comparisons |
@@ -58,7 +63,7 @@ Data storytelling is not about making charts look nice. It is about making data 
 The difference:
 
 **Data presentation:** "Here are our Q3 numbers across all KPIs."
-**Data storytelling:** "We hit revenue — here is why that matters and what it means for Q4."
+**Data storytelling:** "We hit revenue, here is why that matters and what it means for Q4."
 
 Three things that separate data storytelling from data dumping:
 
@@ -69,7 +74,7 @@ Every chart should answer exactly one question. If you need two questions answer
 Instead of "Revenue by Quarter", write "Revenue exceeded target for the second consecutive quarter". The title should state the point, not label the data.
 
 **3. Context makes numbers meaningful.**
-"RM 4.2M revenue" means nothing by itself. "RM 4.2M revenue — 10% above target and our best Q3 in four years" means something.
+"RM 4.2M revenue" means nothing by itself. "RM 4.2M revenue, 10% above target and our best Q3 in four years" means something.
 
 ---
 
