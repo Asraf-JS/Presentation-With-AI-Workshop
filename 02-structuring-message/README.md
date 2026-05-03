@@ -2,7 +2,7 @@
 
 The most common mistake in presentation work is opening PowerPoint before you know what you are trying to say. Design choices made without a clear message just make the confusion look nicer.
 
-> **Prompts to Try:** Open the [copy-paste prompt exercises](./prompts) for this module.
+> **Prompts to Try:** Open the [copy-paste prompt exercises](./prompts.md) for this module.
 
 ---
 
