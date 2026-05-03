@@ -1,8 +1,3 @@
----
-layout: default
-title: 03 — Improving Slide Content with PowerPoint AI Features
----
-
 # 03 — Improving Slide Content with PowerPoint AI Features
 
 PowerPoint has built-in AI features that can help you clean up slide text, improve layouts, and generate speaker notes. This module covers how to use them well, and when to ignore their suggestions.
