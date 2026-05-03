@@ -1,8 +1,3 @@
----
-layout: default
-title: 04 — Visualising Data for Storytelling
----
-
 # 04 — Visualising Data for Storytelling
 
 A chart that shows everything tells nothing. This module covers how to choose the right chart for the message you are trying to communicate, how to turn raw data tables into slides that say something, and how to use AI tools to generate diagrams and visuals without a design background.
