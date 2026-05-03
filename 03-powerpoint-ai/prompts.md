@@ -1,8 +1,3 @@
----
-layout: default
-title: 03 — PowerPoint AI Features: Prompts
----
-
 # 03 — PowerPoint AI Features: Prompts
 
 This page has two parts. Part 1 is tied to the Nusantara Capital before deck and walks you through the workshop exercise. Part 2 is a set of prompts you can take away and use on any deck after the workshop.
