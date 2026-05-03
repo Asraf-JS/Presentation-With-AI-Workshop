@@ -3,7 +3,7 @@
 
 PowerPoint has built-in AI features that can help you clean up slide text, improve layouts, and generate speaker notes. This module covers how to use them well — and when to ignore their suggestions.
 
-> **Prompts to Try:** Open the [copy-paste prompt exercises](./prompts) for this module.
+> **Prompts to Try:** Open the [copy-paste prompt exercises](./prompts.md) for this module.
 
 ---
 
