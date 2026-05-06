@@ -1,4 +1,4 @@
-# 03 — PowerPoint AI Features: Prompts
+# 03 - PowerPoint AI Features: Prompts
 
 This page has two parts. Part 1 is tied to the Nusantara Capital before deck and walks you through the workshop exercise. Part 2 is a set of prompts you can take away and use on any deck after the workshop.
 
@@ -6,11 +6,11 @@ Use these in **ChatGPT, Copilot Chat, or any AI chat tool** alongside PowerPoint
 
 ---
 
-## Part 1 — Workshop Exercise
+## Part 1 - Workshop Exercise
 
 Open the before deck before you start: [Download NC_Q3_2025_Before.pptx](../01-rethinking-presentations/NC_Q3_2025_Before.pptx)
 
-### Step 1 — Rewrite all 12 slide titles
+### Step 1 - Rewrite all 12 slide titles
 
 Open the before deck. Look at each slide title. Most are labels, not points. Run this prompt to get rewritten versions, then apply them directly in PowerPoint.
 
@@ -34,7 +34,7 @@ Malaysian investment holding company.
 12. Thank You
 ```
 
-### Step 2 — Trim slide 3 (Department Overview)
+### Step 2 - Trim slide 3 (Department Overview)
 
 Slide 3 has 8 bullet points, each 2 to 3 sentences long. This is one of the worst slides in the deck. Run this prompt to trim it.
 
@@ -76,7 +76,7 @@ Rewrite this slide content. Rules:
 5. Audience: CEO and division heads
 ```
 
-### Step 3 — Trim slide 11 (Key Decisions Needed)
+### Step 3 - Trim slide 11 (Key Decisions Needed)
 
 This is the most important slide in the deck. The actual budget approval request is buried in bullet 4 of 6. Run this prompt to restructure it.
 
@@ -112,7 +112,7 @@ Restructure this slide. Rules:
 5. The audience is the CEO who has 2 minutes for this slide.
 ```
 
-### Step 4 — Generate speaker notes for slide 5 (Project Status)
+### Step 4 - Generate speaker notes for slide 5 (Project Status)
 
 Slide 5 is the project status table. Run this prompt to generate useful speaker notes.
 
@@ -132,7 +132,7 @@ Format the notes as 3 short talking points, each one sentence, plus a
 one-line transition to the next slide. Do not write a full script.
 ```
 
-### Step 5 — Test PowerPoint Designer
+### Step 5 - Test PowerPoint Designer
 
 After rewriting the title on slide 4 (Revenue Performance), open Designer in PowerPoint:
 
@@ -155,7 +155,7 @@ What is the principle for deciding?
 
 ---
 
-## Part 2 — Try It Yourself
+## Part 2 - Try It Yourself
 
 Use these prompts on any deck you are working on outside the workshop.
 
@@ -228,7 +228,7 @@ settings or approaches should I use?
 
 ---
 
-## Copilot in PowerPoint — Slide Creation Prompt
+## Copilot in PowerPoint - Slide Creation Prompt
 
 Use this prompt directly in **Copilot in PowerPoint** to create a trainer slide deck for this module. Paste it into the Copilot chat panel inside PowerPoint.
 
@@ -325,7 +325,7 @@ List the 4 key takeaways:
 4. Speaker notes are talking points, not a script
 Next module label: Module 04 — Visualising Data for Storytelling
 ```
-## Part 3 — Build a template-ready presentation using VBA
+## Part 3 - Build a template-ready presentation using VBA
 
 **Session: new chat in your preferred AI assistant (Copilot, Claude, or ChatGPT) | No grounding needed**
 
@@ -340,7 +340,7 @@ Copilot in PowerPoint generates slides using text boxes, which means corporate t
 5. In PowerPoint, press `Alt + F11` to open the VBA editor
 6. Go to Insert > Module, paste the code, then press `F5` or click Run
 
-**Short opening prompt — paste this first, then paste the master prompt directly below it:**
+**Short opening prompt - paste this first, then paste the master prompt directly below it:**
 
 ```
 Use the workflow below to help me build a PowerPoint 365 
@@ -349,7 +349,7 @@ PowerPoint charts. Do not generate the VBA until you have
 created the outline and I have approved it.
 ```
 
-**Master prompt — paste this immediately after the opening prompt above:**
+**Master prompt - paste this immediately after the opening prompt above:**
 
 ```
 # Role
